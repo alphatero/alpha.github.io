@@ -103,4 +103,6 @@ scheme: Isolation
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ""
+  type: git
+  repo: https://github.com/alphatero/alpha.github.io
+  branch: gh-pages
