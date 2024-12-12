@@ -97,9 +97,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: fluid
-theme: landscape
-# scheme: Isolation
+theme: fluid
+# theme: landscape
+scheme: Isolation
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
